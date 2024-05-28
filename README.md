@@ -9,7 +9,7 @@ This is a solution to the [Blog preview card challenge on Frontend Mentor](https
 
 ## Screenshot
 
-    Mobile view    ![alt text](Mobile view.png)
+    Mobile view    ![Mobile view](https://github.com/sapphirepusa/blog-card-challenge/assets/39982892/c2716d27-3a24-4324-bae6-26587030675e)
 
 ## Link to Netlify
 
