@@ -9,8 +9,10 @@ This is a solution to the [Blog preview card challenge on Frontend Mentor](https
     Build out this blog preview card and get it looking as close to the design as possible.
     requirements: - See hover and focus states for all interactive elements on the page
     
-## Screenshot
-![alt text](https://github.com/sapphirepusa/blog-card-challenge/blob/main/Mobile%20view.png)
+## Screenshot of my Final Project
+![alt text](https://github.com/sapphirepusa/blog-card-challenge/blob/main/assets/images/Final%20Project%20Img.png)
+![alt text](https://github.com/sapphirepusa/blog-card-challenge/blob/main/assets/images/Final%20Project%20on%20hover.png)
+![alt text](https://github.com/sapphirepusa/blog-card-challenge/blob/main/assets/images/Mobile%20view.png)
 
 
 ## Link to Netlify
