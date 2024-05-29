@@ -19,7 +19,11 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    padding-top: 200px;
+    position: fixed;
+    inset: 0px;
+    height: fit-content;
+    width: fit-content;
+    margin: auto;
 
 }
 
