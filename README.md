@@ -4,16 +4,15 @@
 # Frontend Mentor - Blog preview card solution
 
 This is a solution to the [Blog preview card challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/blog-preview-card-ckPaj01IcS). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+
+## Link to Netlify
+
+    https://blog-card-challenge.netlify.app/
     
 ## Screenshot of my Final Project
 ![alt text](https://github.com/sapphirepusa/blog-card-challenge/blob/main/assets/images/Final%20Project%20Img.png)
 ![alt text](https://github.com/sapphirepusa/blog-card-challenge/blob/main/assets/images/Final%20Project%20on%20hover.png)
 ![alt text](https://github.com/sapphirepusa/blog-card-challenge/blob/main/assets/images/Mobile%20view.png)
-
-
-## Link to Netlify
-
-    [Netlify website - https://blog-card-challenge.netlify.app/](https://blog-card-challenge.netlify.app/)
 
 ##  My Process
 
