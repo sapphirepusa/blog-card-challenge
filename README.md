@@ -4,10 +4,6 @@
 # Frontend Mentor - Blog preview card solution
 
 This is a solution to the [Blog preview card challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/blog-preview-card-ckPaj01IcS). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
-
-## The challenge
-    Build out this blog preview card and get it looking as close to the design as possible.
-    requirements: - See hover and focus states for all interactive elements on the page
     
 ## Screenshot of my Final Project
 ![alt text](https://github.com/sapphirepusa/blog-card-challenge/blob/main/assets/images/Final%20Project%20Img.png)
@@ -17,7 +13,7 @@ This is a solution to the [Blog preview card challenge on Frontend Mentor](https
 
 ## Link to Netlify
 
-    Netlify website - https://blog-card-challenge.netlify.app/
+    [Netlify website - https://blog-card-challenge.netlify.app/](https://blog-card-challenge.netlify.app/)
 
 ##  My Process
 
